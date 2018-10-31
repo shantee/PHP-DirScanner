@@ -17,3 +17,7 @@ Just copy this single PHP file to any directory and access it.
 - Subdirectories counter
 - Sort results  by number of files
 - Sort by path
+
+### It looks like This
+
+![directory scanner in php](https://raw.githubusercontent.com/shantee/PHP-DirScanner/master/dirscan.png)
