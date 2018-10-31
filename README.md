@@ -1,9 +1,9 @@
-#DirScanner
+# DirScanner
 
 This script PHP recursively checks directories and counts the number of files inside each folder.
 The results are presented nicely on a sortable list. I used it to check if some directories on my server had too many files.
 
-##Installation
+## Installation
 
 Just copy this single PHP file to any directory and access it.
 
